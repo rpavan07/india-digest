@@ -1,28 +1,30 @@
 {
  "2026-11-13": {
-  "headlines": 446,
-  "untagged": 324,
+  "headlines": 418,
+  "untagged": 296,
   "per_state": {
    "Maharashtra": 19,
-   "Chandigarh": 1,
-   "Tamil Nadu": 3,
-   "Punjab": 3,
-   "Jammu & Kashmir": 10,
-   "Karnataka": 23,
    "Rajasthan": 5,
-   "Delhi": 16,
-   "Bihar": 7,
-   "Kerala": 9,
-   "Assam": 6,
-   "Gujarat": 3,
-   "West Bengal": 7,
-   "Goa": 2,
-   "Odisha": 2,
-   "Arunachal Pradesh": 6,
-   "Madhya Pradesh": 2,
    "Ladakh": 4,
+   "Karnataka": 21,
+   "Bihar": 7,
+   "Assam": 8,
+   "Delhi": 20,
+   "West Bengal": 5,
+   "Goa": 2,
+   "Arunachal Pradesh": 5,
+   "Madhya Pradesh": 1,
+   "Jammu & Kashmir": 9,
+   "Gujarat": 4,
+   "Tamil Nadu": 3,
+   "Kerala": 9,
+   "Punjab": 1,
    "Uttar Pradesh": 1,
-   "Mizoram": 1
+   "Odisha": 2,
+   "Chandigarh": 1,
+   "Haryana": 1,
+   "Mizoram": 1,
+   "Telangana": 1
   }
  }
 }
