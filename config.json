@@ -1,0 +1,72 @@
+{
+  "window_hours": 30,
+  "max_stories_per_region": 14,
+  "language": "en-IN",
+  "country": "IN",
+
+  "regions": {
+    "Northeast": [
+      {"state": "Assam"},
+      {"state": "Arunachal Pradesh"},
+      {"state": "Manipur"},
+      {"state": "Meghalaya"},
+      {"state": "Mizoram"},
+      {"state": "Nagaland"},
+      {"state": "Tripura"},
+      {"state": "Sikkim"}
+    ],
+    "East": [
+      {"state": "West Bengal", "query": "\"West Bengal\" OR Kolkata"},
+      {"state": "Odisha", "query": "Odisha OR Bhubaneswar"},
+      {"state": "Bihar", "query": "Bihar OR Patna"},
+      {"state": "Jharkhand", "query": "Jharkhand OR Ranchi"},
+      {"state": "Andaman & Nicobar", "query": "\"Andaman\" OR \"Port Blair\""}
+    ],
+    "North": [
+      {"state": "Jammu & Kashmir", "query": "\"Jammu and Kashmir\" OR Srinagar OR Jammu"},
+      {"state": "Ladakh", "query": "Ladakh OR Leh"},
+      {"state": "Himachal Pradesh", "query": "\"Himachal Pradesh\" OR Shimla"},
+      {"state": "Punjab", "query": "Punjab -Pakistan -Lahore"},
+      {"state": "Haryana", "query": "Haryana OR Gurugram"},
+      {"state": "Chandigarh"},
+      {"state": "Delhi", "query": "Delhi"},
+      {"state": "Uttarakhand", "query": "Uttarakhand OR Dehradun"},
+      {"state": "Uttar Pradesh", "query": "\"Uttar Pradesh\" OR Lucknow"}
+    ],
+    "Central": [
+      {"state": "Madhya Pradesh", "query": "\"Madhya Pradesh\" OR Bhopal OR Indore"},
+      {"state": "Chhattisgarh", "query": "Chhattisgarh OR Raipur"}
+    ],
+    "West": [
+      {"state": "Rajasthan", "query": "Rajasthan OR Jaipur"},
+      {"state": "Gujarat", "query": "Gujarat OR Ahmedabad"},
+      {"state": "Maharashtra", "query": "Maharashtra OR Mumbai OR Pune"},
+      {"state": "Goa"}
+    ],
+    "South": [
+      {"state": "Karnataka", "query": "Karnataka OR Bengaluru"},
+      {"state": "Kerala", "query": "Kerala OR Thiruvananthapuram OR Kochi"},
+      {"state": "Tamil Nadu", "query": "\"Tamil Nadu\" OR Chennai"},
+      {"state": "Andhra Pradesh", "query": "\"Andhra Pradesh\" OR Amaravati OR Visakhapatnam"},
+      {"state": "Telangana", "query": "Telangana OR Hyderabad"},
+      {"state": "Puducherry"},
+      {"state": "Lakshadweep"}
+    ]
+  },
+
+  "_population_note": "Census 2011, millions. Used only for the coverage-per-capita bias index.",
+  "population_millions": {
+    "Uttar Pradesh": 199.8, "Maharashtra": 112.4, "Bihar": 104.1, "West Bengal": 91.3,
+    "Madhya Pradesh": 72.6, "Tamil Nadu": 72.1, "Rajasthan": 68.5, "Karnataka": 61.1,
+    "Gujarat": 60.4, "Andhra Pradesh": 49.4, "Odisha": 42.0, "Telangana": 35.0,
+    "Kerala": 33.4, "Jharkhand": 33.0, "Assam": 31.2, "Punjab": 27.7,
+    "Chhattisgarh": 25.5, "Haryana": 25.4, "Delhi": 16.8, "Jammu & Kashmir": 12.3,
+    "Uttarakhand": 10.1, "Himachal Pradesh": 6.9, "Tripura": 3.7, "Meghalaya": 3.0,
+    "Manipur": 2.9, "Nagaland": 2.0, "Goa": 1.5, "Arunachal Pradesh": 1.4,
+    "Puducherry": 1.2, "Mizoram": 1.1, "Chandigarh": 1.1, "Sikkim": 0.6,
+    "Andaman & Nicobar": 0.38, "Ladakh": 0.27, "Lakshadweep": 0.06
+  },
+
+  "_source_lean_note": "Optional. Your own labels per outlet, e.g. {\"Outlet Name\": \"pro-govt\"}. Left empty on purpose - see README.",
+  "source_lean": {}
+}

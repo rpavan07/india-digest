@@ -1,0 +1,28 @@
+{
+ "2026-11-13": {
+  "headlines": 446,
+  "untagged": 324,
+  "per_state": {
+   "Maharashtra": 19,
+   "Chandigarh": 1,
+   "Tamil Nadu": 3,
+   "Punjab": 3,
+   "Jammu & Kashmir": 10,
+   "Karnataka": 23,
+   "Rajasthan": 5,
+   "Delhi": 16,
+   "Bihar": 7,
+   "Kerala": 9,
+   "Assam": 6,
+   "Gujarat": 3,
+   "West Bengal": 7,
+   "Goa": 2,
+   "Odisha": 2,
+   "Arunachal Pradesh": 6,
+   "Madhya Pradesh": 2,
+   "Ladakh": 4,
+   "Uttar Pradesh": 1,
+   "Mizoram": 1
+  }
+ }
+}
