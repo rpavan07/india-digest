@@ -26,5 +26,33 @@
    "Mizoram": 1,
    "Telangana": 1
   }
+ },
+ "2026-11-14": {
+  "headlines": 440,
+  "untagged": 323,
+  "per_state": {
+   "Delhi": 20,
+   "Bihar": 8,
+   "Jammu & Kashmir": 11,
+   "Gujarat": 5,
+   "Kerala": 11,
+   "Assam": 8,
+   "Mizoram": 1,
+   "Manipur": 4,
+   "Arunachal Pradesh": 7,
+   "Andhra Pradesh": 1,
+   "Karnataka": 12,
+   "Maharashtra": 12,
+   "Tamil Nadu": 6,
+   "Odisha": 1,
+   "Rajasthan": 5,
+   "Himachal Pradesh": 2,
+   "Andaman & Nicobar": 1,
+   "West Bengal": 4,
+   "Goa": 1,
+   "Ladakh": 3,
+   "Chandigarh": 1,
+   "Madhya Pradesh": 1
+  }
  }
 }
