@@ -54,5 +54,33 @@
    "Chandigarh": 1,
    "Madhya Pradesh": 1
   }
+ },
+ "2026-11-15": {
+  "headlines": 444,
+  "untagged": 326,
+  "per_state": {
+   "Bihar": 1,
+   "Telangana": 7,
+   "Delhi": 17,
+   "Tamil Nadu": 8,
+   "Maharashtra": 11,
+   "Punjab": 13,
+   "Andhra Pradesh": 1,
+   "Arunachal Pradesh": 5,
+   "Kerala": 9,
+   "Karnataka": 27,
+   "Jammu & Kashmir": 3,
+   "Assam": 5,
+   "Odisha": 3,
+   "Madhya Pradesh": 2,
+   "Uttar Pradesh": 2,
+   "Manipur": 4,
+   "Uttarakhand": 3,
+   "Rajasthan": 4,
+   "Himachal Pradesh": 1,
+   "Goa": 1,
+   "Gujarat": 1,
+   "Mizoram": 1
+  }
  }
 }
