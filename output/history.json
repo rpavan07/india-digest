@@ -87,5 +87,29 @@
   "headlines": 0,
   "untagged": 0,
   "per_state": {}
+ },
+ "2026-11-17": {
+  "headlines": 431,
+  "untagged": 309,
+  "per_state": {
+   "Telangana": 7,
+   "Gujarat": 4,
+   "Tamil Nadu": 6,
+   "Karnataka": 12,
+   "Delhi": 34,
+   "Punjab": 8,
+   "West Bengal": 5,
+   "Uttarakhand": 5,
+   "Maharashtra": 19,
+   "Jammu & Kashmir": 10,
+   "Rajasthan": 6,
+   "Kerala": 5,
+   "Haryana": 2,
+   "Assam": 3,
+   "Uttar Pradesh": 1,
+   "Arunachal Pradesh": 2,
+   "Andhra Pradesh": 1,
+   "Odisha": 1
+  }
  }
 }
