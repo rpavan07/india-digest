@@ -161,5 +161,27 @@
    "West Bengal": 2,
    "Assam": 1
   }
+ },
+ "2026-11-20": {
+  "headlines": 431,
+  "untagged": 313,
+  "per_state": {
+   "Maharashtra": 22,
+   "Assam": 4,
+   "Tamil Nadu": 20,
+   "Rajasthan": 11,
+   "Karnataka": 4,
+   "Jammu & Kashmir": 5,
+   "Odisha": 8,
+   "Punjab": 6,
+   "Delhi": 29,
+   "Telangana": 4,
+   "Haryana": 6,
+   "Uttar Pradesh": 2,
+   "Arunachal Pradesh": 2,
+   "Meghalaya": 1,
+   "Kerala": 4,
+   "Bihar": 2
+  }
  }
 }
