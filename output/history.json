@@ -183,5 +183,29 @@
    "Kerala": 4,
    "Bihar": 2
   }
+ },
+ "2026-11-21": {
+  "headlines": 408,
+  "untagged": 309,
+  "per_state": {
+   "Kerala": 5,
+   "Manipur": 6,
+   "Telangana": 5,
+   "Rajasthan": 10,
+   "Tamil Nadu": 10,
+   "Karnataka": 17,
+   "Maharashtra": 12,
+   "West Bengal": 5,
+   "Jammu & Kashmir": 3,
+   "Bihar": 8,
+   "Odisha": 3,
+   "Chhattisgarh": 4,
+   "Punjab": 1,
+   "Delhi": 9,
+   "Madhya Pradesh": 1,
+   "Arunachal Pradesh": 2,
+   "Andhra Pradesh": 1,
+   "Assam": 4
+  }
  }
 }
