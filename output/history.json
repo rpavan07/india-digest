@@ -231,5 +231,29 @@
    "Madhya Pradesh": 2,
    "West Bengal": 3
   }
+ },
+ "2026-11-23": {
+  "headlines": 409,
+  "untagged": 322,
+  "per_state": {
+   "Rajasthan": 10,
+   "Manipur": 5,
+   "Haryana": 3,
+   "Gujarat": 4,
+   "Telangana": 9,
+   "Karnataka": 7,
+   "Maharashtra": 16,
+   "Andhra Pradesh": 1,
+   "Arunachal Pradesh": 6,
+   "Tamil Nadu": 7,
+   "Tripura": 3,
+   "Delhi": 9,
+   "Uttar Pradesh": 1,
+   "Bihar": 2,
+   "Jammu & Kashmir": 2,
+   "West Bengal": 5,
+   "Kerala": 1,
+   "Odisha": 1
+  }
  }
 }
