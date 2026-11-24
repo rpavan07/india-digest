@@ -255,5 +255,33 @@
    "Kerala": 1,
    "Odisha": 1
   }
+ },
+ "2026-11-24": {
+  "headlines": 365,
+  "untagged": 276,
+  "per_state": {
+   "Karnataka": 7,
+   "Arunachal Pradesh": 4,
+   "Andhra Pradesh": 2,
+   "Bihar": 6,
+   "Puducherry": 1,
+   "Tamil Nadu": 9,
+   "Haryana": 3,
+   "Maharashtra": 14,
+   "Punjab": 7,
+   "Delhi": 16,
+   "Goa": 1,
+   "Gujarat": 3,
+   "Uttar Pradesh": 2,
+   "Kerala": 4,
+   "Sikkim": 2,
+   "West Bengal": 6,
+   "Rajasthan": 2,
+   "Odisha": 2,
+   "Mizoram": 1,
+   "Jammu & Kashmir": 2,
+   "Madhya Pradesh": 1,
+   "Jharkhand": 2
+  }
  }
 }
