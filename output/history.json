@@ -283,5 +283,32 @@
    "Madhya Pradesh": 1,
    "Jharkhand": 2
   }
+ },
+ "2026-11-25": {
+  "headlines": 425,
+  "untagged": 323,
+  "per_state": {
+   "Bihar": 10,
+   "Kerala": 8,
+   "Tamil Nadu": 6,
+   "Haryana": 1,
+   "Delhi": 23,
+   "Gujarat": 1,
+   "Karnataka": 6,
+   "West Bengal": 8,
+   "Maharashtra": 15,
+   "Jammu & Kashmir": 7,
+   "Assam": 2,
+   "Punjab": 4,
+   "Jharkhand": 4,
+   "Arunachal Pradesh": 6,
+   "Goa": 1,
+   "Andhra Pradesh": 1,
+   "Madhya Pradesh": 2,
+   "Uttarakhand": 1,
+   "Uttar Pradesh": 1,
+   "Odisha": 1,
+   "Tripura": 1
+  }
  }
 }
