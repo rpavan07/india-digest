@@ -310,5 +310,33 @@
    "Odisha": 1,
    "Tripura": 1
   }
+ },
+ "2026-11-26": {
+  "headlines": 460,
+  "untagged": 341,
+  "per_state": {
+   "Rajasthan": 6,
+   "Bihar": 7,
+   "Uttar Pradesh": 2,
+   "Arunachal Pradesh": 3,
+   "Delhi": 26,
+   "Haryana": 5,
+   "Karnataka": 11,
+   "Jammu & Kashmir": 15,
+   "Kerala": 8,
+   "Telangana": 5,
+   "Maharashtra": 18,
+   "Tamil Nadu": 6,
+   "Andhra Pradesh": 1,
+   "Jharkhand": 4,
+   "Himachal Pradesh": 1,
+   "Tripura": 1,
+   "West Bengal": 5,
+   "Punjab": 3,
+   "Puducherry": 1,
+   "Gujarat": 1,
+   "Goa": 1,
+   "Assam": 1
+  }
  }
 }
