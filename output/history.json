@@ -338,5 +338,29 @@
    "Goa": 1,
    "Assam": 1
   }
+ },
+ "2026-11-27": {
+  "headlines": 438,
+  "untagged": 329,
+  "per_state": {
+   "Tamil Nadu": 6,
+   "Maharashtra": 21,
+   "West Bengal": 5,
+   "Jammu & Kashmir": 8,
+   "Delhi": 16,
+   "Rajasthan": 14,
+   "Nagaland": 2,
+   "Mizoram": 1,
+   "Kerala": 8,
+   "Chandigarh": 2,
+   "Karnataka": 7,
+   "Punjab": 1,
+   "Haryana": 3,
+   "Bihar": 9,
+   "Telangana": 5,
+   "Himachal Pradesh": 1,
+   "Madhya Pradesh": 2,
+   "Gujarat": 2
+  }
  }
 }
