@@ -362,5 +362,27 @@
    "Madhya Pradesh": 2,
    "Gujarat": 2
   }
+ },
+ "2026-11-28": {
+  "headlines": 360,
+  "untagged": 282,
+  "per_state": {
+   "Bihar": 6,
+   "Punjab": 6,
+   "Rajasthan": 7,
+   "Jammu & Kashmir": 11,
+   "Delhi": 8,
+   "Tamil Nadu": 9,
+   "Maharashtra": 19,
+   "Uttarakhand": 1,
+   "Chandigarh": 2,
+   "Gujarat": 2,
+   "Haryana": 3,
+   "Assam": 2,
+   "Kerala": 1,
+   "Karnataka": 6,
+   "Puducherry": 1,
+   "West Bengal": 1
+  }
  }
 }
